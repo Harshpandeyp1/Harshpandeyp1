@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsh Pandey</h1>
 
-<h3 align="center">
-  Java Full Stack Developer • Spring Boot • React • GenAI • DSA • System Design
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vcenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%26+Microservices;React.js+%26+Tailwind+CSS;GenAI+%26+Spring+AI+Enthusiast;DSA+%26+System+Design" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <i>Building real-world applications, learning scalable systems, and turning ideas into code.</i>
@@ -10,124 +10,87 @@
 
 <p align="center">
   <a href="https://github.com/Harshpandeyp1">
-    <img src="https://komarev.com/ghpvc/?username=harshpandeyp1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=harshpandeyp1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 **3rd-Year B.Tech CSE Student** at Centurion University, Bhubaneswar
-* 💻 Focused on **Java Full Stack Development**
-* ⚙️ Building backend applications with **Java & Spring Boot**
-* ⚛️ Building modern frontend applications with **React**
-* 🤖 Exploring **Generative AI & Spring AI**
-* 🧠 Strengthening **DSA & Problem Solving**
-* 🏗️ Learning **System Design** by applying it to real projects
-* 🚀 Interested in **Software Development & Backend Engineering**
-* ✍️ I enjoy **writing poetry** when I'm not writing code
+- 🎓 **3rd-Year B.Tech CSE Student** at Centurion University, Bhubaneswar
+- 💻 Focused on **Java Full Stack Development**
+- ⚙️ Building backend applications with **Java & Spring Boot**
+- ⚛️ Building modern frontend applications with **React**
+- 🤖 Exploring **Generative AI & Spring AI**
+- 🧠 Strengthening **DSA & Problem Solving**
+- 🏗️ Learning **System Design** by applying it to real projects
+- 🚀 Interested in **Software Development & Backend Engineering**
+- ✍️ I enjoy **writing poetry** when I'm not writing code
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Detailed Tech Stack
 
-### Languages
-
+### 💻 Programming Languages
 <p align="left">
-<a href="https://www.java.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-</a>
-<a href="https://www.javascript.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</a>
-<a href="https://www.cprogramming.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-</a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### Frontend
-
+### ⚙️ Backend Development & Frameworks
 <p align="left">
-<a href="https://react.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-</a>
-<a href="https://tailwindcss.com/">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-</a>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
 </p>
 
-### Backend
-
+### ⚛️ Frontend Development
 <p align="left">
-<a href="https://spring.io/projects/spring-boot">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="Spring Boot"/>
-</a>
-<a href="https://spring.io/ai">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="Spring AI"/>
-</a>
-<a href="https://nodejs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-</a>
-<a href="https://expressjs.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
-</a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### Databases
-
+### 🗄️ Databases
 <p align="left">
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-</a>
-<a href="https://www.mongodb.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-</a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-### Tools & DevOps
-
+### 🤖 AI, LLMs & Emerging Tech
 <p align="left">
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-</a>
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
-</a>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI"/>
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+</p>
+
+### 🛠️ Tools, IDEs & Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
 
-## 🚀 What I'm Currently Working On
 
-### 🔹 CollaBrix
 
-A collaborative platform where developers can discover projects, express interest, become project members, and eventually collaborate through discussions, tasks, ideas and GitHub integration.
-
-**Tech:** React • Spring Boot • MySQL • JWT • BCrypt
-
-🔗 [View CollaBrix](https://github.com/Harshpandeyp1/CollaBrix)
-
----
-
-### 🔹 Vastra
-
-A fashion e-commerce platform focused on modern commerce workflows and AI-powered merchant operations.
-
-**Tech:** React • Spring Boot • MySQL • Spring AI • Razorpay
-
-🔗 [View Vastra](https://github.com/Harshpandeyp1/Vastra-E-comm)
-
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpandeyp1&theme=radical&hide_border=true" width="97%" alt="Streak Stats"/>
+</p>
 
 ## 🧠 Currently Learning
 
@@ -158,20 +121,7 @@ System Design
  └── Scalability & Reliability
 ```
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshpandeyp1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpandeyp1&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshpandeyp1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 📈 My Developer Journey
 
@@ -200,7 +150,7 @@ System Design
              Building Production-Ready Apps 🚀
 ```
 
----
+
 
 ## 🤝 Connect With Me
 
