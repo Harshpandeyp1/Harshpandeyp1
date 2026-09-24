@@ -119,6 +119,10 @@ Generative AI
  ├── RAG
  └── AI Agents
 
+DataBase
+ ├── My Sql
+ ├── MongoDb
+
 System Design
  ├── HLD
  ├── LLD
