@@ -105,6 +105,13 @@ Backend
  ├── Spring Boot
  ├── Spring Security
  └── REST APIs
+ └──Node and Express Js
+
+FrontEnd
+ ├── React
+ └──Html,Css
+ └──Tailwind
+
 
 Generative AI
  ├── Spring AI
