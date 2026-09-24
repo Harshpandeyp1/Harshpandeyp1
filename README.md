@@ -128,37 +128,6 @@ System Design
  └── Scalability & Reliability
 ```
 
-
-
-## 📈 My Developer Journey
-
-```text
-2024 ───────────────► Started B.Tech CSE
-                         │
-                         ▼
-                 Java & DSA Fundamentals
-                         │
-                         ▼
-                 React & Full Stack Development
-                         │
-                         ▼
-                    Spring Boot
-                         │
-                         ▼
-                  Real-World Projects
-                         │
-                         ▼
-                 Generative AI / Spring AI
-                         │
-                         ▼
-                  System Design
-                         │
-                         ▼
-             Building Production-Ready Apps 🚀
-```
-
-
-
 ## 🤝 Connect With Me
 
 <p align="left">
