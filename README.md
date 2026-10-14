@@ -46,8 +46,18 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+</p>
+
+### 📐 System Design & Software Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/System_Design-00599C?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design"/>
+  <img src="https://img.shields.io/badge/OOPS-4B0082?style=for-the-badge&logo=java&logoColor=white" alt="Object-Oriented Programming"/>
+  <img src="https://img.shields.io/badge/Low_Level_Design_(LLD)-2E86C1?style=for-the-badge&logo=architecture&logoColor=white" alt="LLD"/>
+  <img src="https://img.shields.io/badge/Design_Patterns-008080?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Design Patterns"/>
 </p>
 
 ### ⚛️ Frontend Development
@@ -62,6 +72,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ### 🤖 AI, LLMs & Emerging Tech
@@ -81,7 +92,6 @@
 </p>
 
 ---
-
 
 
 <p align="center">
