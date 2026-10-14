@@ -8,11 +8,7 @@
   <i>Building real-world applications, learning scalable systems, and turning ideas into code.</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Harshpandeyp1">
-    <img src="https://komarev.com/ghpvc/?username=harshpandeyp1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
