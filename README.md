@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Pandey</h1>
+<h1 align="center">Hi 👋, I'm Harsh Pandey...</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vcenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%26+Microservices;React.js+%26+Tailwind+CSS;GenAI+%26+Spring+AI+Enthusiast;DSA+%26+System+Design" alt="Typing SVG" />
